@@ -167,3 +167,16 @@ font-weight: 700;}
       color: #000; /* Adjust color as needed */
       font-size: 0.8em; /* Adjust font size as needed */
   }
+
+
+
+
+  /* Style for the hr element */
+  hr.custom-hr {
+    width: 80%;
+    float: left;
+    clear: both; /* This ensures that content below the hr doesn't float */
+    border: none; /* Removes default border */
+    height: 1px; /* Sets the height of the hr line */
+    background-color: #333; /* Sets the color of the hr line */
+  }
