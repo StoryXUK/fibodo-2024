@@ -180,3 +180,27 @@ font-weight: 700;}
     height: 1px; /* Sets the height of the hr line */
     background-color: #333; /* Sets the color of the hr line */
   }
+
+  hr.custom-hr-100 {
+    width: 100%;
+    float: left;
+    clear: both; /* This ensures that content below the hr doesn't float */
+    border: none; /* Removes default border */
+    height: 1px; /* Sets the height of the hr line */
+    background-color: #333; /* Sets the color of the hr line */
+  }
+
+
+  .mega-menu-footer {
+  
+    margin: auto;
+    border-right: #000;
+    
+
+  }
+
+
+  .vertical-line {
+    width: 1px; /* Adjust width as needed */
+    height: 8%; /* Adjust height as needed */
+    border-right: 1px solid black; /* Adjust color and style as needed */}

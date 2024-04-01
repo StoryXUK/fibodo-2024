@@ -1244,8 +1244,8 @@ body[data-theme='light'] .default-shape,
 }
 
 .gr-megamenu-dropdown .single-dropdown-block .mega-drop-menu-item {
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 1px;
+  padding-bottom: 16px;
   display: block;
 }
 
@@ -1355,7 +1355,7 @@ body[data-theme='light'] .default-shape,
 }
 
 .gr-megamenu-dropdown-2 .single-dropdown-block .mega-drop-menu-item {
-  padding-top: 10px;
+  padding-top: 2px;
   padding-bottom: 10px;
   display: block !important;
 }
